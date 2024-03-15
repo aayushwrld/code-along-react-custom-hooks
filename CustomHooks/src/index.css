@@ -1,0 +1,24 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.87);
+  background-color: #4980e7;
+}
+
+a {
+  color: #646cff;
+  text-decoration: inherit;
+}
+
+input{
+  width: 30vw;
+  height: 3vh;
+  padding: 0.5rem;
+  border-radius: 1rem;
+  border: 1px solid white;
+}
+
+h2 {
+  color:white;
+}
